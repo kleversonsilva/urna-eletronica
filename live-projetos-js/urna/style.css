@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+.urna{
+    background-color: aliceblue; 
+    padding: 30px;
+    display: flex; 
+    justify-content: center; /*centralizar*/
+    align-items: center;
+
+}
+.tela{
+    width: 500px;
+    height: 320px;
+    background: linear-gradient(to rit, #E8E8E8,#C1C1C1);
+
+}
+.teclado{
+    background-color: #403A3A;
+
+}
